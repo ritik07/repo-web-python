@@ -26,6 +26,9 @@
 -keepclasseswithmembernames class * {
     @butterknife.* <methods>;
 }
+-keepclasseswithmembernames class * {
+    @butterknife.* <System>;
+}
 
 -keepnames class * { @butterknife.Bind *;}
 
