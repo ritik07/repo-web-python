@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.HoraApps:Liz:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Liz--SNAPSHOT.aar/ae7e54ce8db8f29f1238fa49c0758701/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Liz--SNAPSHOT.aar/ae7e54ce8db8f29f1238fa49c0758701/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.HoraApps/Liz/-SNAPSHOT/58ea9f92dddafcf7489b8880602d10425369a238/Liz--SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
