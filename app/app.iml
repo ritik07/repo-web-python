@@ -11,6 +11,7 @@
         <option name="SELECTED_BUILD_VARIANT" value="noGPlayDebug" />
         <option name="ASSEMBLE_TASK_NAME" value="assembleNoGPlayDebug" />
         <option name="COMPILE_JAVA_TASK_NAME" value="compileNoGPlayDebugSources" />
+         <option name="COMPILE_JAVA_TASK_NAME" value="compileNoGPlayDebugSources" />
         <afterSyncTasks>
           <task>generateNoGPlayDebugSources</task>
         </afterSyncTasks>
