@@ -37,19 +37,21 @@
           <option name="pluginOptions">
             <array>
               <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
-              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
-              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />            
             </array>
           </option>
           <option name="pluginClasspaths">
             <array>
-              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.2.41/10100eedfe2e26b9cf18b850d997b42d02af7500/kotlin-android-extensions-1.2.41.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.7/org.jetbrains.kotlin/kotlin-android-extensions/1.2.41/10100eedfe2e26b9cf18b850d997b42d02af7500/kotlin-android-extensions-1.2.41.jar" />
             </array>
           </option>
           <option name="coroutinesState" value="warn" />
           <option name="errors">
             <ArgumentParseErrors />
           </option>
+          <afterSyncTasks>
+          <task>generateNoGPlayDebugSources</task>
+        </afterSyncTasks>
         </compilerArguments>
       </configuration>
     </facet>
